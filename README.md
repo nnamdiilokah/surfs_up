@@ -12,13 +12,14 @@
   + Generate the summary statistics for June and December temperatures.
 
   ## Results
-   Our analysis provided three key differences in weather between June and December
-
-   Summary Statistics for June temperatures is shown in the image below:
-   ![june_summary](https://github.com/nnamdiilokah/surfs_up/blob/main/june%20summary%20statistics.png)
-
-   Summary Statistics for December temperatures is shown in the image below:
-   ![December_Summary](https://github.com/nnamdiilokah/surfs_up/blob/main/december%20summary%20statistics.png)
+  
+  Our analysis provided three key differences in weather between June and December
+  
+  Summary Statistics for June temperatures is shown in the image below:
+  ![june_summary](https://github.com/nnamdiilokah/surfs_up/blob/main/june%20summary%20statistics.png)
+  
+  Summary Statistics for December temperatures is shown in the image below:
+  ![December_Summary](https://github.com/nnamdiilokah/surfs_up/blob/main/december%20summary%20statistics.png)
 
   + The month of June has higher mean temperature than the month of December. June has a mean temperature of 74.94 degrees whereas the month of December has a lower mean temperature of 71.04 degrees.
 
